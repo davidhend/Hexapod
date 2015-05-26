@@ -8,6 +8,6 @@ PS2X_lib - Library for PS2 Controller
 
 Updated HardwareSerial - Arduino-0021 - Updated HardwareSerial library for Arduino 0021
 
-You will want to download and use Arduino Enviroment 0021 to compile and upload the code in this repository.
+Arduino Enviroment 0021 to compile and upload the code in this repository; you will want the same.
  
  
