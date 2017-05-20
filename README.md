@@ -11,7 +11,11 @@ PixyProgramHeightWidth - loaded to the micro-controller (arduino nano) that read
 PS2X_lib - Library for PS2 Controller
 
 Updated HardwareSerial - Arduino-0021 - Updated HardwareSerial library for Arduino 0021
+     >  You will want to overwrite the two HardwareSerial files located at:
+         C:\Users\xxxx\Desktop\arduino-0021\hardware\arduino\cores\arduino
+        With the files in the updated HardwareSerial folder in this repository.
 
-Arduino Enviroment 0021 to compile and upload the code in this repository; you will want the same.
+Arduino Enviroment 0021 to compile and upload the code in this repository; you will want the same.  You can get it at the following URL:  https://www.arduino.cc/en/Main/OldSoftwareReleases#00xx
+
  
  
